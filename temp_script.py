@@ -1,4 +1,4 @@
-def ROC_learing_integration(X,Y):
+def learing_integration(X,Y):
     area, area_correct = 0., 0.5575
     i_iter = 2.0
     coeff = 0.0
