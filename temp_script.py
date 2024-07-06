@@ -24,5 +24,5 @@ def learing_integration(X,Y):
     return area, coeff
 
 if __name__ == '__main__':
-    area, coeff = ROC_learing_integration(X,Y)
+    area, coeff = learing_integration(X,Y)
     print(area, coeff)
